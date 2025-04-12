@@ -10,7 +10,7 @@ a python script to automate the process of making fastly links
 2. run this command
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 3. to use it, run this
 
